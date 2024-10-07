@@ -3,25 +3,22 @@
 
 ## Mathematical Physics
 
-- ODE
-- PDE
-- Matrices
 - Vector Calculus
+- Linear Algebra
+- Differential Equations (Ordinary and Partial)
 - Complex Analysis
-- Laplace Transform
-- Fourier Analysis
+- Integral Transforms (Laplace, Fourier)
 - Tensors
 
 ## Classical Mechanics
-**Lagrangian Formulation**: D'Alembert's principle, Euler-Lagrange equation, Hamilton's principle,
-calculus of variations; symmetry and conservation laws; central force motion: Kepler problem and
-Rutherford scattering; small oscillations: coupled oscillations and normal modes; rigid body
-dynamics: interia tensor, orthogonal transformations, Euler angles, Torque free motion of a
-symmetric top; Hamiltonian and Hamilton's equations of motion; Liouville's theorem; canonical
-transformations: action-angle variables, Poisson brackets, Hamilton-Jacobi equation.
 
-**Special Theory of Relativity**: Lorentz transformations, relativistic kinematics, mass-energy
-equivalence.
+- Lagrangian Mechanics
+- Conservation Laws
+- Central Force Problems
+- Oscillations
+- Rigid Body Dynamics
+- Hamiltonian Mechanics
+- Special Relativity
 
 ## Section 3: Electromagnetic Theory
 Solutions of electrostatic and magnetostatic problems including boundary value problems; method
