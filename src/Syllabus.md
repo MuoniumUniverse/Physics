@@ -1,15 +1,18 @@
 
 # Syllabus
 
-## Section 1: Mathematical Physics
-**Vector Calculus**: Linear vector space: basis, orthogonality and completeness; matrices; similarity
-transformations, diagonalization, eigen values and eigen vectors; linear differential equations:
-second order linear differential equations and solutions involving special functions; complex
-analysis: Cauchy-Riemann conditions, Cauchy's theorem, singularities, residue theorem and
-applications; Laplace transform, Fourier analysis; elementary ideas about tensors: covariant and
-contravariant tensors.
+## Mathematical Physics
 
-## Section 2: Classical Mechanics
+- ODE
+- PDE
+- Matrices
+- Vector Calculus
+- Complex Analysis
+- Laplace Transform
+- Fourier Analysis
+- Tensors
+
+## Classical Mechanics
 **Lagrangian Formulation**: D'Alembert's principle, Euler-Lagrange equation, Hamilton's principle,
 calculus of variations; symmetry and conservation laws; central force motion: Kepler problem and
 Rutherford scattering; small oscillations: coupled oscillations and normal modes; rigid body
